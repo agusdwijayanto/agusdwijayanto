@@ -1,53 +1,49 @@
-# Halo, Saya Agus Dwijayanto! 👋
-
-### 💫 About Me:
-Mahasiswa Sistem Informasi di Universitas Pamulang (UNPAM) yang memiliki ketertarikan mendalam di bidang **Analisis Data (Data Analytics)**. Saya fokus mempelajari bagaimana mentransformasikan data mentah menjadi wawasan visual (*actionable insights*) yang dapat mendukung keputusan strategis bisnis.
+# 👋 Halo! Saya Agus Dwijayanto  
+**Information Systems Student & Tech Enthusiast** Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan kuat di bidang **Data Analytics**, **Business Intelligence**, dan **Web Development**. Saya senang mengolah data mentah menjadi informasi yang bernilai guna mendukung pengambilan keputusan bisnis yang tepat, serta gemar mengeksplorasi ekosistem teknologi modern.
 
 ---
 
-### 💻 Tech Stack & Tools:
-Berikut adalah ekosistem teknologi yang sedang aktif saya pelajari dan gunakan:
+## 🚀 Ringkasan Portofolio & Proyek Utama  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Berikut adalah beberapa proyek dan kompetensi yang telah saya dokumentasikan di GitHub ini:
 
-| Kategori | Alat / Teknologi |
-| :--- | :--- |
-| **Analisis & Database** | Microsoft Excel, SQL (MySQL, PostgreSQL) |
-| **Bahasa Pemrograman** | Python (Pandas, NumPy, Seaborn) |
-| **Visualisasi Data** | Power BI, Tableau |
-| **Kontrol Versi & Platform** | Git, GitHub, Kaggle |
+### 1. 🐍 [Sales Data Preprocessing & Analytics](https://github.com/agusdwijayanto/data-preprocessing-practice)
+* **Deskripsi:** Proses pembersihan (*data cleaning*) dan rekayasa fitur dataset penjualan menggunakan Python.
+* **Teknologi:** Pandas, NumPy, Matplotlib, Scikit-Learn (MinMaxScaler), NLTK.
+* **Keahlian:** Menangani *missing values*, normalisasi data, dan analisis teks dasar (NLP).
 
----
+### 2. 📊 [Business Intelligence Dashboard](https://github.com/agusdwijayanto/sales-tableau-dashboard)
+* **Deskripsi:** Transformasi data transaksi yang rumit menjadi dashboard interaktif untuk melihat tren pasar.
+* **Teknologi:** Tableau.
+* **Keahlian:** Desain visualisasi data, pembuatan KPIs, dan analisis performa produk.
 
-### 📈 Target & Fokus Pengembangan Saat Ini
-* 🛢️ **Advanced SQL:** Memperdalam manipulasi data kompleks dan optimalisasi query database.
-* 🐍 **Data Wrangling:** Melakukan pembersihan data (*data cleaning*) skala besar menggunakan Python.
-* 📊 **Data Storytelling:** Mengasah kemampuan menyajikan dashboard bisnis yang mudah dipahami.
+### 3. 🍊 [No-Code Data Mining & Analytics](https://github.com/agusdwijayanto/orange-data-mining-analytics)
+* **Deskripsi:** Pemodelan alur kerja data (*data pipeline*) untuk klasifikasi dan segmentasi pasar tanpa kode.
+* **Teknologi:** Orange Data Mining.
+* **Keahlian:** Pemrograman visual (*visual programming*), eksplorasi distribusi data, dan korelasi variabel.
 
----
-
-### 📊 GitHub Stats & Consistency:
-*Grafik di bawah ini akan memantau aktivitas commit dan konsistensi belajar saya secara real-time.*
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=agusdwijayanto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Statistik GitHub Agus" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=agusdwijayanto&theme=tokyonight&hide_border=false" alt="GitHub Streak Agus" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=agusdwijayanto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Bahasa Pemrograman Paling Sering Digunakan" height="160" />
-</p>
+### 4. 🗂️ [Dasar Python & Big Data Ecosystem](https://github.com/agusdwijayanto/dasar-python-bigdata)
+* **Deskripsi:** Repositori fundamental yang mendokumentasikan pemahaman dasar sintaks Python dan konsep arsitektur big data.
 
 ---
 
-### 📫 Mari Terhubung!
-* **LinkedIn:** [Akan segera hadir](#)
-* **Email:** [Akan segera hadir](#)
-* **Kaggle:** [Akan segera hadir](#)
+## 🛠️ Tech Stack & Alat yang Dikuasai  
+
+* **Bahasa Pemrograman & Framework:** Python, PHP (Laravel)
+* **Analisis Data & Visualisasi:** Pandas, NumPy, Tableau, Orange Data Mining
+* **Manajemen Data:** SQL, Konsep Big Data Ecosystem (Hadoop HDFS, YARN, NoSQL)
+* **Desain & Branding:** Adobe Illustrator
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agusdwijayanto&icon=0&color=blue" alt="Visitor Count" />
-  <br>
-  <i>“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee</i>
-</p>
+
+## 📫 Mari Terhubung!  
+* **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)  
+
+*“Mengubah data mentah menjadi wawasan bisnis yang matang.”* ```
+
+---
+
+### 💡 Langkah Terakhir:
+Setelah di-*paste*, langsung klik **Commit changes...** untuk menyimpan. 
+
+Sekarang, coba kamu klik profil GitHub kamu (`agusdwijayanto`). Tampilannya pasti langsung berubah total menjadi halaman portofolio personal yang sangat rapi dan siap dipamerkan! Sudah berhasil dicoba pembuatannya?
