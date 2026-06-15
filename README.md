@@ -1,34 +1,39 @@
 # Halo, Saya Agus Dwijayanto! 👋
 
-Saya adalah seorang mahasiswa Sistem Informasi di Universitas Pamulang (UNPAM) yang memiliki ketertarikan mendalam di bidang **Analisis Data (Data Analytics)**. Saat ini saya sedang aktif mempelajari bagaimana mengolah data mentah menjadi informasi yang berguna untuk mendukung keputusan bisnis.
+Saya adalah mahasiswa Sistem Informasi di Universitas Pamulang (UNPAM) yang sedang fokus mendalami dunia **Data Analytics**. Saya senang mengubah data mentah menjadi informasi visual yang bermanfaat untuk keputusan bisnis.
 
 ---
 
-### 🛠️ Kompetensi & Tools yang Sedang Dipelajari
-Berikut adalah teknologi dan alat kerja yang sedang aktif saya pelajari dan kembangkan dalam roadmap belajar saya:
+### 🛠️ Tech Stack & Tools yang Sedang Dipelajari
 
-| Kategori | Alat / Teknologi |
-| :--- | :--- |
-| **Analisis & Database** | Microsoft Excel, SQL (PostgreSQL / MySQL) |
-| **Bahasa Pemrograman** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| **Visualisasi Data** | Power BI / Tableau |
-| **Platform Data** | GitHub, Kaggle |
+<p align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <!-- Git & GitHub -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📈 Fokus & Target Belajar
+- 🛢️ Menguasai query database tingkat lanjut menggunakan **SQL**.
+- 🐍 Melakukan pembersihan data (*data cleaning*) dengan **Python (Pandas)**.
+- 📊 Membuat dashboard bisnis interaktif yang informatif.
 
 ---
 
-### 📈 Target & Fokus Saat Ini
-* 🛢️ Memperdalam kemampuan manipulasi data tingkat lanjut menggunakan SQL.
-* 🐍 Mempelajari visualisasi data interaktif menggunakan Python dan BI Tools.
-* 💼 Membangun portofolio studi kasus bisnis yang solutif secara bertahap di GitHub ini.
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusdwijayanto&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Agus" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusdwijayanto&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman" height="150" />
+</p>
 
 ---
-
-### 📫 Mari Terhubung!
-* **LinkedIn:** [Akan segera hadir]
-* **Email:** [Akan segera hadir]
-* **Kaggle:** [Akan segera hadir]
-
----
-*“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee*
-
-
+*“Data is a precious thing and will last longer than the systems themselves.”*
