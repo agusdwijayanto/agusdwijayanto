@@ -31,7 +31,21 @@ Berikut adalah ekosistem teknologi yang sedang aktif saya pelajari dan kembangka
   <img src="https://github-readme-stats.vercel.app/api?username=agusdwijayanto&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Agus" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusdwijayanto&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman" height="150" />
 </p>
+# 💫 About Me:
+Information Systems Student at UNPAM | Aspiring Data Analyst
 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=agusdwijayanto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=agusdwijayanto&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=agusdwijayanto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=agusdwijayanto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ### 📫 Mari Terhubung!
