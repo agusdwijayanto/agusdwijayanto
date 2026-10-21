@@ -13,7 +13,7 @@ Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SM
 
 ## 📌 Proyek Lainnya
 
-- **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysi)** — analisis data transaksi penjualan menjadi wawasan bisnis
+- **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysis)** — analisis data transaksi penjualan menjadi wawasan bisnis
 - **[Data Preprocessing Practice](https://github.com/agusdwijayanto/data-preprocessing-practice)** — latihan pengolahan dan pembersihan data dengan Python
 
 ---
