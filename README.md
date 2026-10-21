@@ -1,25 +1,39 @@
-# 👋 Halo! Saya Agus Dwijayanto  
-**Information Systems Student & Tech Enthusiast**
+# 👋 Halo! Saya Agus Dwijayanto
+**Mahasiswa Sistem Informasi — IT Support & Web Development**
 
-Saya adalah mahasiswa Sistem Informasi di Universitas Pamulang yang memiliki ketertarikan kuat di bidang **Data Analytics**, **Business Intelligence**, dan **Web Development**. Saya senang mengeksplorasi ekosistem teknologi modern dan mengolah data mentah menjadi informasi yang bernilai guna mendukung pengambilan keputusan.
-
----
-
-## 🛠️ Tech Stack & Alat yang Dikuasai  
-
-* **Bahasa Pemrograman & Framework:** Python, PHP (Laravel)
-* **Analisis Data & Visualisasi:** Pandas, NumPy, Tableau, Orange Data Mining
-* **Manajemen Data:** SQL, Konsep Big Data Ecosystem (Hadoop HDFS, YARN, NoSQL)
-* **Desain & Branding:** Adobe Illustrator
+Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SMK Teknik Komputer dan Jaringan (TKJ). Fokus saya pada dukungan teknis IT, administrasi jaringan dasar, dan pengembangan web, dengan ketertarikan pada analisis data untuk mendukung pengambilan keputusan.
 
 ---
 
-## 📌 Proyek & Portofolio Utama
-*Silakan cek bagian **"Pinned"** atau daftar **"Repositories"** di bawah untuk melihat implementasi kode, visualisasi dashboard, dan laporan analisis data yang telah saya kerjakan.*
+## 🚀 Proyek Unggulan
+
+**[MyCoffee](https://github.com/agusdwijayanto/mycoffee)** — Website company profile kedai kopi + menu live + POS kasir dalam satu aplikasi Laravel. Dilengkapi login admin dan kasir, catatan pesanan per item, laporan penjualan, dan manual book, dengan 52 tes otomatis yang lulus.
 
 ---
 
-## 📫 Mari Terhubung!  
-* **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)  
+## 📌 Proyek Lainnya
+
+- **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysi)** — analisis data transaksi penjualan menjadi wawasan bisnis
+- **[Data Preprocessing Practice](https://github.com/agusdwijayanto/data-preprocessing-practice)** — latihan pengolahan dan pembersihan data dengan Python
+
+---
+
+## 🛠️ Tech Stack
+
+- **Jaringan & IT Support:** TCP/IP, subnetting, Cisco Packet Tracer, troubleshooting perangkat dan jaringan
+- **Web Development:** PHP (Laravel), MySQL, Flutter, HTML/CSS
+- **Data:** Python (Pandas, NumPy), SQL, Tableau, Orange Data Mining
+
+---
+
+## 🔭 Fokus Saat Ini
+
+Memperdalam Laravel dan administrasi jaringan lewat proyek nyata yang dipakai dan dites beneran.
+
+---
+
+## 📫 Mari Terhubung!
+
+- **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)
 
 *“Mengubah data mentah menjadi wawasan bisnis yang matang.”*
