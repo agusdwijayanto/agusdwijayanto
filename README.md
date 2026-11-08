@@ -1,7 +1,7 @@
 # 👋 Halo! Saya Agus Dwijayanto
-**Mahasiswa Sistem Informasi — IT Support & Web Development**
+**Mahasiswa Sistem Informasi — Web Developer**
 
-Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SMK Teknik Komputer dan Jaringan (TKJ). Fokus saya pada dukungan teknis IT, administrasi jaringan dasar, dan pengembangan web, dengan ketertarikan pada analisis data untuk mendukung pengambilan keputusan.
+Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SMK Teknik Komputer dan Jaringan (TKJ). Fokus saya pada pengembangan web: membangun website dan aplikasi web yang dipakai beneran.
 
 ---
 
@@ -20,20 +20,18 @@ Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SM
 
 ## 🛠️ Tech Stack
 
-- **Jaringan & IT Support:** TCP/IP, subnetting, Cisco Packet Tracer, troubleshooting perangkat dan jaringan
 - **Web Development:** PHP (Laravel), MySQL, Flutter, HTML/CSS
+- **Jaringan & IT Support:** TCP/IP, subnetting, Cisco Packet Tracer, troubleshooting perangkat dan jaringan
 - **Data:** Python (Pandas, NumPy), SQL, Tableau, Orange Data Mining
 
 ---
 
 ## 🔭 Fokus Saat Ini
 
-Memperdalam Laravel dan administrasi jaringan lewat proyek nyata yang dipakai dan dites beneran.
+Memperdalam web development secara terstruktur — HTML, CSS, JavaScript, sampai framework — lewat proyek nyata yang dipakai dan dites beneran.
 
 ---
 
 ## 📫 Mari Terhubung!
 
 - **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)
-
-*“Mengubah data mentah menjadi wawasan bisnis yang matang.”*
