@@ -1,4 +1,5 @@
 # 👋 Halo! Saya Agus Dwijayanto
+
 **Mahasiswa Sistem Informasi — Web Developer**
 
 Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SMK Teknik Komputer dan Jaringan (TKJ). Fokus saya pada pengembangan web: membangun website dan aplikasi web yang dipakai beneran.
@@ -7,12 +8,17 @@ Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SM
 
 ## 🚀 Proyek Unggulan
 
+**[Password Generator](https://github.com/agusdwijayanto/password-generator)** — Pembuat kata sandi, frasa sandi, dan nama pengguna email plus. React + Vite + Tailwind CSS, mobile-first, semua proses di browser tanpa server.
+🔗 **Live demo:** [agusdwijayanto.github.io/password-generator](https://agusdwijayanto.github.io/password-generator/)
+
 **[MyCoffee](https://github.com/agusdwijayanto/mycoffee)** — Website company profile kedai kopi + menu live + POS kasir dalam satu aplikasi Laravel. Dilengkapi login admin dan kasir, catatan pesanan per item, laporan penjualan, dan manual book, dengan 52 tes otomatis yang lulus.
 
 ---
 
 ## 📌 Proyek Lainnya
 
+- **[agus_apps](https://github.com/agusdwijayanto/agus_apps)** — aplikasi Flutter multi-fitur (UTS Mobile Programming)
+- **[Praktikum Mobile Programming](https://github.com/agusdwijayanto/platikum_mp)** — aplikasi Flutter dengan login dan database Supabase, data terpisah per akun
 - **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysis)** — analisis data transaksi penjualan menjadi wawasan bisnis
 - **[Data Preprocessing Practice](https://github.com/agusdwijayanto/data-preprocessing-practice)** — latihan pengolahan dan pembersihan data dengan Python
 
@@ -20,7 +26,8 @@ Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SM
 
 ## 🛠️ Tech Stack
 
-- **Web Development:** PHP (Laravel), MySQL, Flutter, HTML/CSS
+- **Web Development:** JavaScript (React, Vite, Tailwind CSS), PHP (Laravel), MySQL, HTML/CSS
+- **Mobile:** Flutter (Dart), Supabase
 - **Jaringan & IT Support:** TCP/IP, subnetting, Cisco Packet Tracer, troubleshooting perangkat dan jaringan
 - **Data:** Python (Pandas, NumPy), SQL, Tableau, Orange Data Mining
 
@@ -35,3 +42,4 @@ Memperdalam web development secara terstruktur — HTML, CSS, JavaScript, sampai
 ## 📫 Mari Terhubung!
 
 - **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)
+- **Website:** [agusdwijayanto.github.io/password-generator](https://agusdwijayanto.github.io/password-generator/)
