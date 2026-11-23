@@ -1,45 +1,46 @@
 # 👋 Halo! Saya Agus Dwijayanto
 
-**Mahasiswa Sistem Informasi — Web Developer**
+### **Mahasiswa Sistem Informasi &middot; Web Developer**
 
-Saya mahasiswa Sistem Informasi di Universitas Pamulang dengan latar belakang SMK Teknik Komputer dan Jaringan (TKJ). Fokus saya pada pengembangan web: membangun website dan aplikasi web yang dipakai beneran.
+*Membangun website dan aplikasi web fungsional yang dipakai beneran.*
 
 ---
 
 ## 🚀 Proyek Unggulan
 
-**[Password Generator](https://github.com/agusdwijayanto/password-generator)** — Pembuat kata sandi, frasa sandi, dan nama pengguna email plus. React + Vite + Tailwind CSS, mobile-first, semua proses di browser tanpa server.
-🔗 **Live demo:** [agusdwijayanto.github.io/password-generator](https://agusdwijayanto.github.io/password-generator/)
-
-**[MyCoffee](https://github.com/agusdwijayanto/mycoffee)** — Website company profile kedai kopi + menu live + POS kasir dalam satu aplikasi Laravel. Dilengkapi login admin dan kasir, catatan pesanan per item, laporan penjualan, dan manual book, dengan 52 tes otomatis yang lulus.
+- **[Password Generator](https://github.com/agusdwijayanto/password-generator)** — Pembuat kata sandi, frasa sandi, dan nama pengguna email plus. Dibangun dengan React + Vite + Tailwind CSS (mobile-first, 100% di browser tanpa server).  
+  🔗 [Live Demo](https://agusdwijayanto.github.io/password-generator/)
+- **[MyCoffee](https://github.com/agusdwijayanto/mycoffee)** — Website company profile kedai kopi + menu live + POS kasir berbasis Laravel. Dilengkapi login admin & kasir, manajemen pesanan per item, laporan penjualan, manual book, serta lolos 52 tes otomatis.
 
 ---
 
 ## 📌 Proyek Lainnya
 
-- **[agus_apps](https://github.com/agusdwijayanto/agus_apps)** — aplikasi Flutter multi-fitur (UTS Mobile Programming)
-- **[Praktikum Mobile Programming](https://github.com/agusdwijayanto/platikum_mp)** — aplikasi Flutter dengan login dan database Supabase, data terpisah per akun
-- **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysis)** — analisis data transaksi penjualan menjadi wawasan bisnis
-- **[Data Preprocessing Practice](https://github.com/agusdwijayanto/data-preprocessing-practice)** — latihan pengolahan dan pembersihan data dengan Python
+- **[agus_apps](https://github.com/agusdwijayanto/agus_apps)** — Aplikasi Flutter multi-fitur (UTS Mobile Programming).
+- **[Praktikum Mobile Programming](https://github.com/agusdwijayanto/platikum_mp)** — Aplikasi Flutter dengan autentikasi login dan database Supabase (data terpisah per akun).
+- **[Sales Transaction Data Analysis](https://github.com/agusdwijayanto/sales-transaction-data-analysis)** — Analisis data transaksi penjualan untuk wawasan bisnis.
+- **[Data Preprocessing Practice](https://github.com/agusdwijayanto/data-preprocessing-practice)** — Latihan pengolahan dan pembersihan data menggunakan Python.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Keahlian
 
-- **Web Development:** JavaScript (React, Vite, Tailwind CSS), PHP (Laravel), MySQL, HTML/CSS
-- **Mobile:** Flutter (Dart), Supabase
-- **Jaringan & IT Support:** TCP/IP, subnetting, Cisco Packet Tracer, troubleshooting perangkat dan jaringan
-- **Data:** Python (Pandas, NumPy), SQL, Tableau, Orange Data Mining
+| Kategori | Teknologi & Tools |
+| :--- | :--- |
+| **Web Development** | JavaScript (React, Vite, Tailwind CSS), PHP (Laravel), MySQL, HTML/CSS |
+| **Mobile Development** | Flutter (Dart), Supabase |
+| **IT & Jaringan** | TCP/IP, Subnetting, Cisco Packet Tracer, Hardware & Troubleshooting |
+| **Data & Analisis** | Python (Pandas, NumPy), SQL, Tableau, Orange Data Mining |
 
 ---
 
 ## 🔭 Fokus Saat Ini
 
-Memperdalam web development secara terstruktur — HTML, CSS, JavaScript, sampai framework — lewat proyek nyata yang dipakai dan dites beneran.
+Memperdalam web development secara terstruktur — dari HTML, CSS, JavaScript, hingga framework modern — lewat proyek nyata yang diuji dan diimplementasikan secara langsung.
 
 ---
 
-## 📫 Mari Terhubung!
+## 📫 Mari Terhubung
 
-- **GitHub:** [github.com/agusdwijayanto](https://github.com/agusdwijayanto)
-- **Website:** [agusdwijayanto.github.io/password-generator](https://agusdwijayanto.github.io/password-generator/)
+- **GitHub:** [@agusdwijayanto](https://github.com/agusdwijayanto)
+- **Website/Demo:** [Password Generator Demo](https://agusdwijayanto.github.io/password-generator/)
